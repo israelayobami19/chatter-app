@@ -113,7 +113,7 @@ body {
 
 .transparent {
   color: var(--white_color);
-  background-color: #80570c52;
+  background-color: #362e1f52;
   padding: 30px 350px;
   display: flex;
   flex-direction: column;
