@@ -475,6 +475,16 @@ body {
   .connect_art {
     align-items: center;
     gap: 20px;
+    padding: 20px;
+  }
+
+  .connect_img {
+    align-items: center;
+    gap: 7px;
+  }
+  .profile1 {
+    flex-direction: row;
+    gap: 7px;
   }
 
   .footer {
